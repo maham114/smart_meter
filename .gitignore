@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Executables
+*.exe
+
+# Large files
+*.zip
+*.csv
+*.h5
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs/temp
+*.log
+/temp/

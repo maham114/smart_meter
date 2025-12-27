@@ -10,7 +10,6 @@ __pycache__/
 
 # Large files
 *.zip
-*.csv
 *.h5
 
 # IDE/editor folders

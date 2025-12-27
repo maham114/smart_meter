@@ -108,3 +108,13 @@ requests
 Install all dependencies via:
 
 pip install -r requirements.txt
+<img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/abdc2141-f3f6-4f75-94c2-c2d437b54061" />
+<img width="1892" height="926" alt="image" src="https://github.com/user-attachments/assets/ee5e41e0-9e11-4b2c-a247-205f07c1d648" />
+<img width="1886" height="905" alt="image" src="https://github.com/user-attachments/assets/c899bc05-a79f-411d-bad4-e1e117153ea1" />
+<img width="1877" height="923" alt="image" src="https://github.com/user-attachments/assets/39350fe4-5d7d-4cc9-bbbc-b2249c0243eb" />
+<img width="1896" height="853" alt="image" src="https://github.com/user-attachments/assets/0182426a-2b47-4014-a3c3-c0fddbf91396" />
+
+
+
+
+

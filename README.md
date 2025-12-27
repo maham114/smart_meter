@@ -80,7 +80,7 @@ Generates 3 AI-powered energy-saving tips per day using HuggingFace LLM.
 
 Displays data, predictions, and advice in an interactive Streamlit dashboard.
 
-🎨 UI Screens
+
 💡 Usage Tips
 
 Focus on Peak days: Reduce unnecessary loads and use energy-efficient appliances.
